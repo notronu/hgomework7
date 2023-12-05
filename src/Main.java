@@ -89,6 +89,26 @@ public class Main {
         }
         while (allDays > friday);
 
+        System.out.println("Задача 8");
+        int now = 2017;
+        int ago = 1817;
+        int after = 2117;
+        for (int l = 0; l < after; l= l +79) {
+            if(l > ago) {
+                System.out.println(l);
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
